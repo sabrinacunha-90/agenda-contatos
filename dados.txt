@@ -1,0 +1,11 @@
+Contato:
+
+* nome (String);
+* endereco: rua, numero, bairro, cep (Objeto);
+* telefone (Array);
+* email (String);
+
+Agenda:
+
+* contato (Ponteiro);
+* grupo: familia, amigo, trabalho (Array); 
